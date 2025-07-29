@@ -1,3 +1,4 @@
+using Microsoft.Extensions.Logging;
 using W2B.S3.Core.Interfaces;
 using W2B.S3.Core.Modules;
 using W2B.S3.Core.Utils;
